@@ -37,5 +37,5 @@ bind = SUPER, G, hyprwinwrap:toggle
 
 ## Credits
 
-- Original hyprwinwrap by [Vaxry](https://github.com/vaxry)
+- Original hyprwinwrap by [hyprwm](https://github.com/hyprwm)
 - Interactive toggle by elmundos
