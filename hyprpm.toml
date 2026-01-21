@@ -1,0 +1,8 @@
+[repository]
+name = "hyprwinwrap-interactive"
+authors = ["elmundos"]
+
+[hyprwinwrap-interactive]
+description = "hyprwinwrap with toggleable interactive mode - play games as your wallpaper!"
+output = "hyprwinwrap.so"
+build = ["make all"]
